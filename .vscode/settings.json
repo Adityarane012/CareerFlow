@@ -1,0 +1,12 @@
+{
+  "python.analysis.extraPaths": [
+    "./packages/scrapers",
+    "./packages/outreach",
+    "./apps/server"
+  ],
+  "python.autoComplete.extraPaths": [
+    "./packages/scrapers",
+    "./packages/outreach",
+    "./apps/server"
+  ]
+}

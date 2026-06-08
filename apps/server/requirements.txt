@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+cryptography
+python-dotenv
+pydantic
+pycryptodome
+requests
+firecrawl-py

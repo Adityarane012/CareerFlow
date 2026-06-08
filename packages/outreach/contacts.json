@@ -1,0 +1,35 @@
+[
+  {
+    "recipient_name": "Priya Sharma",
+    "recipient_email": "priya@example.com",
+    "company": "Acme AI",
+    "role": "Backend Engineering Intern",
+    "job_url": "https://example.com/job/backend-intern",
+    "personalization_note": "saw that your team recently launched an AI-driven workflow automation product",
+    "candidate_name": "Aditya Rane",
+    "candidate_background": "Python developer with experience building automation scripts and AI agent workflows",
+    "portfolio_url": "https://github.com/adityarane"
+  },
+  {
+    "recipient_name": "David Miller",
+    "recipient_email": "david.miller@techflow.io",
+    "company": "TechFlow Systems",
+    "role": "Software Engineer (Python/Django)",
+    "job_url": "https://techflow.io/careers/se-python",
+    "personalization_note": "read your recent technical blog post on optimizing PostgreSQL query latency in high-scale Django apps",
+    "candidate_name": "Aditya Rane",
+    "candidate_background": "Python developer skilled in relational databases, Django, and API optimization",
+    "portfolio_url": "https://github.com/adityarane"
+  },
+  {
+    "recipient_name": "Ananya Roy",
+    "recipient_email": "ananya.r@cloudscale.net",
+    "company": "CloudScale Solutions",
+    "role": "Cloud Automation Engineer",
+    "job_url": "https://cloudscale.net/jobs/cloud-automation",
+    "personalization_note": "noticed you are expanding your infrastructure team to support automated multi-cloud deployments",
+    "candidate_name": "Aditya Rane",
+    "candidate_background": "Python developer passionate about infrastructure as code, cloud APIs, and shell scripting",
+    "portfolio_url": "https://github.com/adityarane"
+  }
+]
